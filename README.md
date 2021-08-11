@@ -10,6 +10,6 @@ Hi there 👋
 - 🤔 I’m looking for help with ..Some random stuff
 - 💬 Ask me about ...NOTHING!
 - 📫 How to reach me: ...Email
-- 😄 Pronouns: ...NOTHING
+- 😄 Pronouns: ...me a good man.
 - ⚡ Fun fact: ...Lead of a leading community
 -->
