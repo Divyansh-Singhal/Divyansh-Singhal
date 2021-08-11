@@ -15,4 +15,4 @@ Hi there 👋
 -->
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-Divyansh-Singhal&style=flat-square&color=232323%22%3E">
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-Divyansh-Singhal&style=flat-square&color=232323">
