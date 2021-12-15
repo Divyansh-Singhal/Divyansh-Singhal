@@ -2,7 +2,7 @@
 
 <img src="https://see.fontimg.com/api/renderfont4/GOY4Z/eyJyIjoiZnMiLCJoIjoxMDAsInciOjEyNTAsImZzIjo4MCwiZmdjIjoiIzE4MTcxNyIsImJnYyI6IiMzNTNENEIiLCJ0IjoxfQ/SGV5IHRoZXJlLg/fundays.png">
 
-<img src="https://i.ibb.co/WFjMVT8/Great-Businessman-Linked-In-Banner.png" alt="Great-Businessman-Linked-In-Banner" border="0">
+<img src="https://i.ibb.co/WFjMVT8/Great-Businessman-Linked-In-Banner.png" alt="Great-Businessman-Linked-In-Banner" border="0" >
 
 
 
