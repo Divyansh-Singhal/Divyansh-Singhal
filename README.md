@@ -1,6 +1,6 @@
 
 
-<div align="centre" <img src=""></div>
+<div align="centre"> <img src="https://see.fontimg.com/api/renderfont4/GOY4Z/eyJyIjoiZnMiLCJoIjoxMDAsInciOjEyNTAsImZzIjo4MCwiZmdjIjoiI0Y2QzgxOCIsImJnYyI6IiMzNTNENEIiLCJ0IjoxfQ/SGV5IHRoZXJlLg/fundays.png"></div>
 
 <div align="center"><img src="https://i.ibb.co/WFjMVT8/Great-Businessman-Linked-In-Banner.png" alt="Great-Businessman-Linked-In-Banner" border="0" ></div>
 
