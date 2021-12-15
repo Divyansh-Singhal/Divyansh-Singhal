@@ -2,6 +2,8 @@
 
 <img src="https://see.fontimg.com/api/renderfont4/GOY4Z/eyJyIjoiZnMiLCJoIjoxMDAsInciOjEyNTAsImZzIjo4MCwiZmdjIjoiIzE4MTcxNyIsImJnYyI6IiMzNTNENEIiLCJ0IjoxfQ/SGV5IHRoZXJlLg/fundays.png">
 
+<img src="https://ibb.co/d6xVmhC">
+
 
 
 - 🔭 I’m currently working on ...JAVA
