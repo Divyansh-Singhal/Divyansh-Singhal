@@ -14,15 +14,28 @@
 
 <div align="center">Welcome to my Github World</div>
 
-- 🔭 I’m currently working on ...JAVA
-- 🌱 I’m currently learning ...Full stack web
-- 👯 I’m looking to collaborate on ...HTML, JAVA SCRIPT,CSS
-- 🤔 I’m looking for help with ..Some random stuff
-- 💬 Ask me about ...NOTHING!
-- 📫 How to reach me: ...Email
-- 😄 Pronouns: ...me a good man.
-- ⚡ Fun fact: ...Lead of a leading community
--->
+<br/><br/>
+
+- I’m currently working on Open-Source projects while going with Front-End and JAVA
+- I’m currently learning Backend Web-Development
+- Ask me about Frontend Web-Dev:)
+- Fun fact : I love networking and meeting new people !
+<br/>
+
+<div align="center">I love to work on :</div>
+<br/>
+     <div align="center">                                  
+   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1">                             
+   <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">                               
+   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">                                
+   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">                              
+   <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">                         
+   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></div>
+
+
+# 
+
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Divyansh-Singhal&show_icons=true&theme=radical" />
