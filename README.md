@@ -19,7 +19,7 @@
 - I’m currently working on Open-Source projects while going with Front-End and JAVA
 - I’m currently learning Backend Web-Development
 - Ask me about Frontend Web-Dev:)
-- Fun fact : I love networking and meeting new people !
+- Fun fact : I love Listening russian music
 <br/>
 
 <div align="center">I love to work on :</div>
