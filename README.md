@@ -9,12 +9,12 @@
 
 # 
 <div align="center" border="5px">
-<img src="https://see.fontimg.com/api/renderfont4/MVwaJ/eyJyIjoiZnMiLCJoIjo0NCwidyI6MTI1MCwiZnMiOjM1LCJmZ2MiOiIjRTA1NDY2IiwiYmdjIjoiIzM1M0Q0QiIsInQiOjF9/TXlzZWxmIERpdnlhbnNoIFNpbmdoYWw/sinerva.png"></div>
+<img src="https://see.fontimg.com/api/renderfont4/MVwaJ/eyJyIjoiZnMiLCJoIjo0NCwidyI6MTI1MCwiZnMiOjM1LCJmZ2MiOiIjRTA1NDY2IiwiYmdjIjoiIzM1M0Q0QiIsInQiOjF9/SSBhbSBEaXZ5YW5zaCBTaW5naGFs/sinerva.png"></div>
 
 
 <div align="center">Welcome to my Github World</div>
 
-<br/><br/>
+<br/>
 
 - I’m currently working on Open-Source projects while going with Front-End and JAVA
 - I’m currently learning Backend Web-Development
@@ -42,6 +42,6 @@
 </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Singhal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-Divyansh-Singhal&style=flat-square&color=232323">
+
+
