@@ -15,7 +15,14 @@
 <div align="center">Welcome to my Github World</div>
 
 <br/># 💫 About Me:
-<br>I’m currently working on Open-Source projects while going with Back-End and JAVA<br>I’m currently learning Backend Web-Development<br>Ask me about Frontend Web-Dev:)<br>Fun fact : I love Listening russian music
+<br>I’m currently working on Open-Source projects while going with Back-End and JAVA<br>
+I’m currently learning Backend Web-Development<br>
+Feel free to contact me for any Front-End Development questions.<br>
+Fun fact : I love Listening russian music.
+
+I am a Pre-Final Year Student at Vellore Institute of Technology ,Bhopal who is passionate about learning new things everyday.
+
+Currently an Intern at Bhakti Vedanta Institute.
 
 
 # 💻 Tech Stack:
