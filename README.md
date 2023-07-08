@@ -20,7 +20,7 @@ I’m currently learning Backend Web-Development<br>
 Feel free to contact me for any Front-End Development questions.<br>
 Fun fact : I love Listening russian music.
 
-I am a Pre-Final Year Student at Vellore Institute of Technology ,Bhopal who is passionate about learning new things everyday.
+I am a Final Year Student at Vellore Institute of Technology ,Bhopal who is passionate about learning new things everyday.
 
 Currently an Intern at Bhakti Vedanta Institute.
 
