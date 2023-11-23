@@ -30,8 +30,7 @@ Currently an Intern at Bhakti Vedanta Institute.
 # 📊 GitHub Stats:
 ![Divyansh-Singhal's Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Singhal&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![Divyansh-Singhal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-Singhal&theme=radical&hide_border=false)
-![Divyansh-Singhal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-Singhal&theme=radical&hide_border=false)
-
+![Divyansh-Singhal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Singhal&theme=radical&show_icons=true&hide_border=false&layout=compact)
 ---
 
 
