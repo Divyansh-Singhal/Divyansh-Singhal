@@ -16,10 +16,10 @@
 
 <br/># 💫 About Me:
 <br>I’m currently working on Open-Source projects while going with Back-End and JAVA<br>
-I’m currently learning Backend Web-Development<br>
 Feel free to contact me for any Front-End Development questions.<br>
 Fun fact : I love Listening russian music.
-
+<div>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fyoung-man-sits-his-desk-workplace-using-his-personal-desktop-computer-working-online-program-work-home-concept-vector-illustration-isolated-white-background_37895-775.jpg&tbnid=YpTddZfdMwwaMM&vet=12ahUKEwi60q2hvd6CAxUoa2wGHWBYAdgQMygFegQIARBf..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fyoung-man-sits-his-desk-workplace-using-his-personal-desktop-computer-working-online-program-work-home-concept-vector-illustration-isolated-white-background_24164335.htm&docid=YTPKn_ZXwdqdIM&w=626&h=626&q=person%20siitng%20on%20a%20computer%20illustraion%20&hl=en&ved=2ahUKEwi60q2hvd6CAxUoa2wGHWBYAdgQMygFegQIARBf"></div>
 I am a Final Year Student at Vellore Institute of Technology ,Bhopal who is passionate about learning new things everyday.
 
 Ex-Intern at Human Innovation Services Pvt Ltd and Bhakti Vedatna Institute as a Web Developer Intern.
