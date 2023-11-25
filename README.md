@@ -22,7 +22,7 @@ Fun fact : I love Listening russian music.
 
 I am a Final Year Student at Vellore Institute of Technology ,Bhopal who is passionate about learning new things everyday.
 
-Currently an Intern at Bhakti Vedanta Institute.
+Ex-Intern at Human Innovation Services Pvt Ltd and Bhakti Vedatna Institute as a Web Developer Intern.
 
 Wondering why Blue peaks everywhere? Ahh, got ya! I love mountains and want to explore more of em. By the way that's my logo!
 
